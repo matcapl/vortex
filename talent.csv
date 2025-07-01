@@ -1,0 +1,151 @@
+person_id,name,type,experience_years,sector_expertise,availability,compensation_expectation
+1,Executive_1,External CEO,14,6,Limited,Low
+2,Executive_2,Board Member,21,44,Limited,Medium
+3,Executive_3,Internal MTL,13,18,Limited,Medium
+4,Executive_4,Internal MCL,33,30,Limited,Medium
+5,Executive_5,External CEO,10,22,Limited,High
+6,Executive_6,Board Member,15,33,Committed,Medium
+7,Executive_7,External CEO,29,30,Available,High
+8,Executive_8,Internal MCL,11,17,Available,High
+9,Executive_9,External Chairman,21,43,Committed,Medium
+10,Executive_10,Board Member,32,32,Limited,High
+11,Executive_11,Board Member,32,42,Limited,Medium
+12,Executive_12,Board Member,5,14,Limited,Low
+13,Executive_13,External Chairman,26,10,Limited,High
+14,Executive_14,Board Member,9,47,Available,Low
+15,Executive_15,Internal MTL,13,36,Available,Medium
+16,Executive_16,Board Member,22,34,Limited,High
+17,Executive_17,Advisor,28,9,Limited,Low
+18,Executive_18,External CEO,31,42,Committed,Medium
+19,Executive_19,Board Member,25,28,Committed,High
+20,Executive_20,External CEO,6,11,Limited,Medium
+21,Executive_21,Internal MTL,33,14,Committed,Medium
+22,Executive_22,External Chairman,30,39,Limited,Medium
+23,Executive_23,Internal MCL,15,47,Limited,Medium
+24,Executive_24,Internal MCL,31,19,Committed,Medium
+25,Executive_25,Board Member,32,15,Limited,High
+26,Executive_26,Internal MCL,10,28,Limited,Medium
+27,Executive_27,Board Member,30,24,Available,Medium
+28,Executive_28,Internal MCL,12,8,Limited,High
+29,Executive_29,External CEO,8,43,Committed,High
+30,Executive_30,Board Member,22,9,Committed,Low
+31,Executive_31,External Chairman,32,47,Committed,Medium
+32,Executive_32,Internal MCL,15,33,Committed,Medium
+33,Executive_33,Board Member,9,33,Limited,Medium
+34,Executive_34,Internal MCL,19,19,Limited,Medium
+35,Executive_35,External CEO,32,3,Available,Medium
+36,Executive_36,Internal MCL,22,10,Limited,High
+37,Executive_37,Advisor,6,40,Limited,High
+38,Executive_38,Board Member,26,47,Committed,Low
+39,Executive_39,Board Member,15,42,Limited,Medium
+40,Executive_40,Board Member,30,1,Limited,Medium
+41,Executive_41,External CEO,29,29,Limited,Medium
+42,Executive_42,Internal MCL,17,50,Limited,Medium
+43,Executive_43,Board Member,8,34,Committed,High
+44,Executive_44,External CEO,26,13,Available,Medium
+45,Executive_45,External Chairman,11,1,Limited,Medium
+46,Executive_46,External Chairman,33,34,Committed,High
+47,Executive_47,Internal MCL,15,29,Limited,Medium
+48,Executive_48,Advisor,26,48,Available,Low
+49,Executive_49,External CEO,28,47,Limited,Medium
+50,Executive_50,Internal MTL,8,13,Committed,Low
+51,Executive_51,External CEO,32,48,Available,High
+52,Executive_52,Advisor,19,49,Committed,Low
+53,Executive_53,External CEO,5,29,Committed,Medium
+54,Executive_54,Internal MCL,27,39,Limited,Medium
+55,Executive_55,Board Member,7,24,Committed,High
+56,Executive_56,Board Member,18,26,Committed,Low
+57,Executive_57,Internal MCL,10,17,Committed,Low
+58,Executive_58,Internal MCL,22,7,Committed,Low
+59,Executive_59,Internal MCL,29,13,Available,Low
+60,Executive_60,External Chairman,5,5,Available,Medium
+61,Executive_61,External Chairman,10,26,Limited,Medium
+62,Executive_62,Internal MTL,10,49,Available,Medium
+63,Executive_63,External Chairman,25,3,Limited,Low
+64,Executive_64,External Chairman,20,7,Committed,High
+65,Executive_65,Board Member,33,49,Committed,Medium
+66,Executive_66,Advisor,9,39,Limited,Medium
+67,Executive_67,Board Member,21,1,Committed,Medium
+68,Executive_68,External CEO,14,49,Committed,High
+69,Executive_69,External CEO,32,17,Limited,Low
+70,Executive_70,Advisor,25,43,Available,High
+71,Executive_71,External Chairman,22,25,Limited,High
+72,Executive_72,External CEO,11,3,Committed,Low
+73,Executive_73,Internal MTL,7,15,Limited,High
+74,Executive_74,Board Member,17,29,Limited,Medium
+75,Executive_75,Board Member,19,43,Available,Low
+76,Executive_76,External Chairman,24,32,Committed,High
+77,Executive_77,External CEO,23,26,Committed,High
+78,Executive_78,Advisor,7,16,Committed,Medium
+79,Executive_79,External Chairman,8,25,Committed,Low
+80,Executive_80,Board Member,9,28,Committed,Medium
+81,Executive_81,Board Member,5,9,Committed,High
+82,Executive_82,Board Member,8,1,Committed,Medium
+83,Executive_83,Internal MCL,16,29,Committed,Medium
+84,Executive_84,External Chairman,32,22,Limited,Low
+85,Executive_85,Internal MTL,31,16,Available,Low
+86,Executive_86,Board Member,28,41,Limited,High
+87,Executive_87,Advisor,14,44,Limited,Medium
+88,Executive_88,External CEO,27,41,Limited,High
+89,Executive_89,External CEO,29,7,Limited,Medium
+90,Executive_90,Advisor,25,14,Committed,High
+91,Executive_91,Board Member,33,29,Committed,Medium
+92,Executive_92,Board Member,30,19,Committed,Medium
+93,Executive_93,External Chairman,24,19,Limited,Low
+94,Executive_94,Internal MTL,28,2,Available,Medium
+95,Executive_95,Board Member,29,41,Available,Medium
+96,Executive_96,Board Member,17,45,Limited,High
+97,Executive_97,Internal MCL,27,15,Available,Medium
+98,Executive_98,External CEO,18,3,Available,Low
+99,Executive_99,Internal MTL,27,11,Committed,Low
+100,Executive_100,External Chairman,9,46,Committed,Low
+101,Executive_101,Internal MTL,8,30,Limited,Medium
+102,Executive_102,Advisor,18,40,Available,High
+103,Executive_103,Internal MCL,14,18,Limited,High
+104,Executive_104,Board Member,21,48,Available,Low
+105,Executive_105,External CEO,14,2,Committed,Medium
+106,Executive_106,Board Member,30,32,Limited,Medium
+107,Executive_107,Advisor,11,8,Limited,Medium
+108,Executive_108,External CEO,20,22,Limited,Medium
+109,Executive_109,External CEO,5,6,Available,Medium
+110,Executive_110,Internal MCL,21,12,Limited,Medium
+111,Executive_111,External CEO,25,47,Committed,Low
+112,Executive_112,Board Member,33,40,Limited,High
+113,Executive_113,Advisor,13,36,Available,Low
+114,Executive_114,Internal MCL,10,15,Limited,Medium
+115,Executive_115,External Chairman,23,28,Limited,Medium
+116,Executive_116,Internal MCL,17,49,Committed,Medium
+117,Executive_117,Board Member,7,45,Limited,High
+118,Executive_118,External CEO,11,18,Limited,High
+119,Executive_119,Internal MTL,26,2,Limited,High
+120,Executive_120,Board Member,13,13,Limited,Medium
+121,Executive_121,Board Member,26,45,Limited,High
+122,Executive_122,External Chairman,9,15,Limited,Medium
+123,Executive_123,Board Member,14,20,Limited,High
+124,Executive_124,External CEO,27,29,Committed,Medium
+125,Executive_125,External CEO,21,42,Limited,High
+126,Executive_126,Board Member,16,29,Committed,High
+127,Executive_127,Board Member,27,3,Limited,High
+128,Executive_128,External CEO,20,19,Committed,Medium
+129,Executive_129,External Chairman,7,3,Committed,Low
+130,Executive_130,External Chairman,34,14,Limited,High
+131,Executive_131,External Chairman,29,40,Committed,Low
+132,Executive_132,External Chairman,26,4,Available,High
+133,Executive_133,External CEO,13,11,Committed,Medium
+134,Executive_134,Internal MTL,33,31,Limited,Medium
+135,Executive_135,Board Member,19,43,Available,High
+136,Executive_136,Board Member,9,32,Limited,Medium
+137,Executive_137,Board Member,27,27,Committed,Medium
+138,Executive_138,External CEO,17,30,Available,Medium
+139,Executive_139,Advisor,18,43,Limited,Medium
+140,Executive_140,Board Member,24,2,Committed,High
+141,Executive_141,Board Member,19,49,Committed,Medium
+142,Executive_142,Board Member,20,9,Limited,High
+143,Executive_143,Advisor,27,28,Available,High
+144,Executive_144,Internal MTL,17,31,Available,Medium
+145,Executive_145,External Chairman,21,34,Limited,High
+146,Executive_146,Board Member,27,15,Limited,Medium
+147,Executive_147,Board Member,12,48,Committed,Medium
+148,Executive_148,Board Member,25,25,Available,High
+149,Executive_149,Internal MTL,6,36,Limited,Low
+150,Executive_150,External CEO,9,8,Available,Medium

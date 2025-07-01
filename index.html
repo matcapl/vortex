@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PE Investment Funnel Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
+</head>
+<body>
+    <div class="dashboard">
+        <!-- Header -->
+        <header class="dashboard-header">
+            <div class="header-content">
+                <h1>Private Equity Investment Pipeline</h1>
+                <div class="header-stats">
+                    <div class="stat-item">
+                        <span class="stat-value" id="totalGames">50</span>
+                        <span class="stat-label">Games Analyzed</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-value" id="activePipeline">182</span>
+                        <span class="stat-label">Companies in Pipeline</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-value" id="activeInvestments">30</span>
+                        <span class="stat-label">Active Investments</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-value" id="totalCapital">$14.2B</span>
+                        <span class="stat-label">Capital Deployed</span>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="dashboard-main">
+            <!-- Controls -->
+            <div class="controls-panel">
+                <div class="control-group">
+                    <label for="metricSelect" class="form-label">View By:</label>
+                    <select id="metricSelect" class="form-control">
+                        <option value="count">Count</option>
+                        <option value="value">Value ($M)</option>
+                    </select>
+                </div>
+                <div class="control-group">
+                    <label for="timeSelect" class="form-label">Time Period:</label>
+                    <select id="timeSelect" class="form-control">
+                        <option value="current">Current</option>
+                        <option value="ytd">Year to Date</option>
+                        <option value="12m">Last 12 Months</option>
+                    </select>
+                </div>
+                <div class="control-group">
+                    <label for="sectorSelect" class="form-label">Sector:</label>
+                    <select id="sectorSelect" class="form-control">
+                        <option value="all">All Sectors</option>
+                        <option value="healthcare">Healthcare Tech</option>
+                        <option value="fintech">FinTech</option>
+                        <option value="edtech">EdTech</option>
+                        <option value="proptech">PropTech</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Funnel Visualization -->
+            <div class="funnel-container">
+                <div class="funnel-section">
+                    <h2>Investment Pipeline Flow</h2>
+                    <div class="funnel-visualization">
+                        <!-- Inward Funnel -->
+                        <div class="funnel-side inward">
+                            <h3>Inward Funnel</h3>
+                            <div class="funnel-stages" id="inwardFunnel">
+                                <!-- Stages will be populated by JavaScript -->
+                            </div>
+                        </div>
+                        
+                        <!-- Center Point -->
+                        <div class="funnel-center">
+                            <div class="center-point">
+                                <div class="center-value" id="centerValue">$1.07B</div>
+                                <div class="center-label">Capital Committed</div>
+                            </div>
+                        </div>
+                        
+                        <!-- Outward Funnel -->
+                        <div class="funnel-side outward">
+                            <h3>Outward Funnel</h3>
+                            <div class="funnel-stages" id="outwardFunnel">
+                                <!-- Stages will be populated by JavaScript -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Supporting Charts -->
+            <div class="charts-grid">
+                <div class="chart-container">
+                    <div class="card">
+                        <div class="card__body">
+                            <h3>Capital Allocation Over Time</h3>
+                            <canvas id="capitalTimelineChart" height="300"></canvas>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="chart-container">
+                    <div class="card">
+                        <div class="card__body">
+                            <h3>Investment Performance</h3>
+                            <canvas id="performanceChart" height="300"></canvas>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="chart-container">
+                    <div class="card">
+                        <div class="card__body">
+                            <h3>Sector Distribution</h3>
+                            <canvas id="sectorChart" height="300"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Data Tables -->
+            <div class="tables-section">
+                <div class="table-container">
+                    <div class="card">
+                        <div class="card__body">
+                            <h3>Investment Performance Summary</h3>
+                            <div class="table-wrapper">
+                                <table class="performance-table" id="performanceTable">
+                                    <thead>
+                                        <tr>
+                                            <th>Company</th>
+                                            <th>Initial Investment ($M)</th>
+                                            <th>Revenue Growth (%)</th>
+                                            <th>EBITDA Growth (%)</th>
+                                            <th>Multiple Expansion</th>
+                                            <th>Status</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <!-- Table rows will be populated by JavaScript -->
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

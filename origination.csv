@@ -1,0 +1,301 @@
+origination_id,company_id,source_type,contact_date,contact_quality,follow_up_status
+1,14,Intermediary,2023-09-15 13:04:43.036456,Cold,Initial Interest
+2,121,Proprietary,2025-03-08 13:04:43.036481,Cold,NDA Signed
+3,162,Investment Bank,2025-06-05 13:04:43.036487,Warm,No Response
+4,181,Network Referral,2024-09-22 13:04:43.036490,Cold,Initial Interest
+5,121,Direct Outreach,2024-10-23 13:04:43.036493,Hot,Management Meeting
+6,20,Intermediary,2024-11-14 13:04:43.036496,Cold,Initial Interest
+7,75,Network Referral,2025-02-08 13:04:43.036498,Cold,NDA Signed
+8,144,Network Referral,2025-03-18 13:04:43.036500,Cold,Initial Interest
+9,70,Intermediary,2023-08-08 13:04:43.036503,Warm,CIM Received
+10,56,Direct Outreach,2023-12-20 13:04:43.036505,Warm,CIM Received
+11,101,Auction Process,2025-04-02 13:04:43.036507,Cold,Initial Interest
+12,186,Network Referral,2023-11-04 13:04:43.036510,Cold,Management Meeting
+13,132,Investment Bank,2024-04-24 13:04:43.036512,Warm,No Response
+14,111,Intermediary,2025-05-29 13:04:43.036514,Cold,No Response
+15,125,Intermediary,2025-05-31 13:04:43.036516,Warm,CIM Received
+16,132,Direct Outreach,2025-03-27 13:04:43.036518,Warm,CIM Received
+17,20,Auction Process,2024-11-19 13:04:43.036520,Cold,No Response
+18,138,Auction Process,2024-11-04 13:04:43.036523,Cold,No Response
+19,24,Direct Outreach,2024-01-30 13:04:43.036525,Hot,No Response
+20,154,Proprietary,2023-10-23 13:04:43.036527,Warm,No Response
+21,37,Investment Bank,2025-06-03 13:04:43.036529,Warm,CIM Received
+22,54,Investment Bank,2023-12-04 13:04:43.036531,Cold,Initial Interest
+23,103,Investment Bank,2024-12-09 13:04:43.036533,Warm,Initial Interest
+24,149,Auction Process,2023-09-04 13:04:43.036535,Cold,Initial Interest
+25,38,Intermediary,2023-07-13 13:04:43.036537,Warm,No Response
+26,174,Investment Bank,2023-12-20 13:04:43.036540,Hot,No Response
+27,4,Direct Outreach,2024-04-27 13:04:43.036542,Cold,NDA Signed
+28,188,Network Referral,2024-11-17 13:04:43.036544,Cold,Management Meeting
+29,57,Investment Bank,2024-03-28 13:04:43.036546,Cold,CIM Received
+30,173,Auction Process,2023-11-05 13:04:43.036548,Cold,No Response
+31,20,Auction Process,2024-09-19 13:04:43.036550,Cold,CIM Received
+32,17,Network Referral,2025-06-24 13:04:43.036553,Cold,CIM Received
+33,119,Proprietary,2025-01-18 13:04:43.036555,Warm,CIM Received
+34,71,Direct Outreach,2023-07-17 13:04:43.036557,Warm,Initial Interest
+35,4,Proprietary,2024-04-24 13:04:43.036559,Cold,Initial Interest
+36,14,Intermediary,2024-07-17 13:04:43.036561,Hot,Initial Interest
+37,3,Network Referral,2024-09-19 13:04:43.036564,Cold,No Response
+38,80,Investment Bank,2025-01-22 13:04:43.036566,Hot,No Response
+39,186,Auction Process,2024-11-22 13:04:43.036568,Cold,No Response
+40,55,Direct Outreach,2024-07-21 13:04:43.036570,Hot,Initial Interest
+41,132,Investment Bank,2025-03-18 13:04:43.036572,Warm,NDA Signed
+42,120,Investment Bank,2025-03-28 13:04:43.036574,Hot,Initial Interest
+43,24,Network Referral,2024-06-06 13:04:43.036576,Hot,No Response
+44,162,Network Referral,2025-03-23 13:04:43.036578,Cold,Management Meeting
+45,158,Intermediary,2024-06-28 13:04:43.036581,Hot,Management Meeting
+46,82,Auction Process,2024-07-13 13:04:43.036583,Cold,CIM Received
+47,147,Investment Bank,2023-10-21 13:04:43.036585,Cold,Management Meeting
+48,159,Intermediary,2024-10-03 13:04:43.036587,Cold,Initial Interest
+49,188,Investment Bank,2025-05-17 13:04:43.036589,Warm,Management Meeting
+50,60,Auction Process,2024-03-17 13:04:43.036591,Cold,No Response
+51,147,Auction Process,2023-12-29 13:04:43.036593,Warm,Initial Interest
+52,49,Network Referral,2025-02-23 13:04:43.036595,Warm,No Response
+53,63,Intermediary,2024-06-08 13:04:43.036638,Warm,No Response
+54,110,Direct Outreach,2025-04-11 13:04:43.036644,Hot,No Response
+55,150,Network Referral,2023-12-13 13:04:43.036646,Warm,NDA Signed
+56,152,Auction Process,2024-09-03 13:04:43.036648,Cold,CIM Received
+57,109,Network Referral,2023-09-26 13:04:43.036651,Cold,NDA Signed
+58,76,Direct Outreach,2023-10-06 13:04:43.036653,Cold,No Response
+59,30,Network Referral,2024-06-25 13:04:43.036655,Cold,CIM Received
+60,58,Auction Process,2023-11-17 13:04:43.036658,Cold,NDA Signed
+61,117,Direct Outreach,2024-12-16 13:04:43.036660,Cold,Initial Interest
+62,159,Investment Bank,2023-07-10 13:04:43.036662,Hot,NDA Signed
+63,100,Intermediary,2025-04-20 13:04:43.036664,Warm,No Response
+64,192,Auction Process,2025-05-15 13:04:43.036666,Cold,Initial Interest
+65,19,Investment Bank,2023-08-23 13:04:43.036668,Warm,Management Meeting
+66,176,Investment Bank,2024-11-09 13:04:43.036670,Cold,No Response
+67,173,Investment Bank,2024-09-07 13:04:43.036672,Warm,Initial Interest
+68,94,Direct Outreach,2025-04-10 13:04:43.036675,Warm,CIM Received
+69,183,Network Referral,2024-11-04 13:04:43.036677,Warm,NDA Signed
+70,113,Intermediary,2025-03-19 13:04:43.036679,Warm,No Response
+71,183,Intermediary,2024-06-06 13:04:43.036681,Hot,No Response
+72,146,Network Referral,2024-09-19 13:04:43.036683,Hot,No Response
+73,63,Direct Outreach,2024-03-23 13:04:43.036685,Warm,NDA Signed
+74,116,Auction Process,2023-09-19 13:04:43.036687,Warm,Initial Interest
+75,113,Network Referral,2024-06-22 13:04:43.036689,Warm,No Response
+76,47,Proprietary,2025-01-15 13:04:43.036691,Cold,Management Meeting
+77,57,Network Referral,2024-06-16 13:04:43.036693,Cold,Initial Interest
+78,118,Investment Bank,2024-07-02 13:04:43.036696,Cold,No Response
+79,45,Intermediary,2024-11-28 13:04:43.036698,Warm,Initial Interest
+80,161,Direct Outreach,2023-08-14 13:04:43.036700,Warm,NDA Signed
+81,145,Intermediary,2024-09-30 13:04:43.036702,Cold,No Response
+82,198,Investment Bank,2023-07-13 13:04:43.036705,Hot,No Response
+83,4,Investment Bank,2023-08-01 13:04:43.036707,Hot,CIM Received
+84,148,Auction Process,2023-09-06 13:04:43.036709,Warm,Initial Interest
+85,47,Investment Bank,2025-04-18 13:04:43.036711,Warm,Initial Interest
+86,143,Auction Process,2023-10-16 13:04:43.036713,Hot,Initial Interest
+87,198,Direct Outreach,2023-09-19 13:04:43.036715,Cold,No Response
+88,47,Network Referral,2025-01-06 13:04:43.036717,Warm,No Response
+89,78,Intermediary,2024-01-01 13:04:43.036719,Cold,Initial Interest
+90,124,Network Referral,2024-10-23 13:04:43.036721,Warm,No Response
+91,75,Direct Outreach,2025-01-14 13:04:43.036723,Cold,No Response
+92,103,Investment Bank,2024-03-14 13:04:43.036725,Hot,CIM Received
+93,137,Investment Bank,2024-06-07 13:04:43.036728,Hot,Management Meeting
+94,90,Direct Outreach,2024-09-27 13:04:43.036730,Cold,CIM Received
+95,144,Intermediary,2023-09-14 13:04:43.036732,Warm,CIM Received
+96,69,Auction Process,2023-07-27 13:04:43.036734,Hot,No Response
+97,61,Auction Process,2023-12-08 13:04:43.036736,Warm,Management Meeting
+98,138,Intermediary,2024-11-18 13:04:43.036739,Hot,No Response
+99,50,Intermediary,2023-07-30 13:04:43.036741,Warm,Management Meeting
+100,3,Intermediary,2024-08-02 13:04:43.036743,Cold,Management Meeting
+101,107,Direct Outreach,2025-05-04 13:04:43.036745,Cold,NDA Signed
+102,113,Auction Process,2024-11-08 13:04:43.036747,Cold,Management Meeting
+103,94,Intermediary,2025-05-29 13:04:43.036749,Warm,NDA Signed
+104,118,Network Referral,2024-08-11 13:04:43.036751,Cold,No Response
+105,198,Investment Bank,2024-05-16 13:04:43.036754,Warm,Initial Interest
+106,81,Direct Outreach,2024-09-29 13:04:43.036756,Warm,NDA Signed
+107,109,Network Referral,2025-04-24 13:04:43.036758,Warm,No Response
+108,51,Auction Process,2024-11-26 13:04:43.036760,Hot,NDA Signed
+109,147,Network Referral,2023-11-28 13:04:43.036763,Hot,Management Meeting
+110,170,Direct Outreach,2024-08-12 13:04:43.036765,Warm,No Response
+111,35,Proprietary,2024-11-25 13:04:43.036768,Hot,CIM Received
+112,46,Investment Bank,2023-08-29 13:04:43.036770,Warm,Management Meeting
+113,154,Direct Outreach,2024-02-05 13:04:43.036772,Warm,Management Meeting
+114,69,Investment Bank,2024-05-21 13:04:43.036774,Hot,Management Meeting
+115,93,Intermediary,2023-09-11 13:04:43.036776,Cold,Initial Interest
+116,64,Auction Process,2024-03-18 13:04:43.036778,Cold,Management Meeting
+117,165,Direct Outreach,2025-02-04 13:04:43.036780,Hot,CIM Received
+118,49,Auction Process,2024-10-02 13:04:43.036783,Warm,No Response
+119,149,Direct Outreach,2025-02-08 13:04:43.036785,Hot,Initial Interest
+120,74,Auction Process,2024-10-21 13:04:43.036787,Hot,NDA Signed
+121,192,Intermediary,2023-12-04 13:04:43.036789,Cold,No Response
+122,5,Auction Process,2023-12-27 13:04:43.036791,Hot,NDA Signed
+123,100,Investment Bank,2024-10-04 13:04:43.036793,Warm,NDA Signed
+124,70,Proprietary,2023-11-10 13:04:43.036795,Warm,No Response
+125,90,Intermediary,2024-04-18 13:04:43.036798,Warm,NDA Signed
+126,4,Direct Outreach,2023-11-11 13:04:43.036800,Hot,CIM Received
+127,126,Auction Process,2024-05-18 13:04:43.036802,Cold,Initial Interest
+128,39,Direct Outreach,2024-06-25 13:04:43.036804,Warm,No Response
+129,163,Auction Process,2024-11-18 13:04:43.036806,Warm,No Response
+130,129,Investment Bank,2025-02-09 13:04:43.036808,Warm,Initial Interest
+131,24,Intermediary,2024-01-26 13:04:43.036810,Warm,Management Meeting
+132,57,Network Referral,2024-02-11 13:04:43.036813,Cold,No Response
+133,100,Investment Bank,2025-03-29 13:04:43.036815,Cold,NDA Signed
+134,70,Investment Bank,2025-05-13 13:04:43.036817,Cold,No Response
+135,41,Investment Bank,2025-03-10 13:04:43.036819,Hot,Initial Interest
+136,182,Network Referral,2025-01-25 13:04:43.036821,Cold,CIM Received
+137,174,Direct Outreach,2023-09-27 13:04:43.036823,Cold,NDA Signed
+138,60,Network Referral,2025-01-18 13:04:43.036825,Hot,No Response
+139,108,Direct Outreach,2023-08-04 13:04:43.036827,Cold,Initial Interest
+140,188,Direct Outreach,2024-04-24 13:04:43.036829,Hot,No Response
+141,57,Intermediary,2023-10-29 13:04:43.036831,Warm,Initial Interest
+142,31,Investment Bank,2025-04-26 13:04:43.036833,Hot,NDA Signed
+143,84,Auction Process,2024-06-01 13:04:43.036836,Cold,No Response
+144,152,Auction Process,2024-06-05 13:04:43.036838,Cold,No Response
+145,36,Intermediary,2023-10-29 13:04:43.036840,Warm,Initial Interest
+146,158,Network Referral,2024-03-08 13:04:43.036842,Hot,Management Meeting
+147,152,Auction Process,2024-01-06 13:04:43.036844,Warm,Management Meeting
+148,108,Investment Bank,2024-10-16 13:04:43.036846,Cold,No Response
+149,106,Investment Bank,2023-12-12 13:04:43.036848,Warm,CIM Received
+150,158,Investment Bank,2025-06-19 13:04:43.036850,Warm,Initial Interest
+151,86,Intermediary,2023-08-04 13:04:43.036853,Warm,Initial Interest
+152,135,Investment Bank,2025-03-05 13:04:43.036855,Warm,CIM Received
+153,163,Network Referral,2023-08-02 13:04:43.036857,Hot,Management Meeting
+154,183,Proprietary,2023-12-29 13:04:43.036859,Warm,Management Meeting
+155,14,Auction Process,2024-09-30 13:04:43.036861,Cold,NDA Signed
+156,120,Network Referral,2023-09-13 13:04:43.036863,Warm,Initial Interest
+157,138,Investment Bank,2024-07-17 13:04:43.036865,Cold,CIM Received
+158,80,Auction Process,2025-03-08 13:04:43.036868,Warm,No Response
+159,144,Network Referral,2024-09-03 13:04:43.036870,Warm,NDA Signed
+160,182,Investment Bank,2024-04-11 13:04:43.036872,Cold,Initial Interest
+161,106,Investment Bank,2025-01-20 13:04:43.036874,Cold,NDA Signed
+162,70,Auction Process,2024-03-23 13:04:43.036876,Cold,No Response
+163,44,Intermediary,2025-06-27 13:04:43.036878,Hot,No Response
+164,73,Auction Process,2024-10-04 13:04:43.036880,Hot,Management Meeting
+165,45,Auction Process,2024-02-04 13:04:43.036882,Cold,No Response
+166,184,Network Referral,2024-12-30 13:04:43.036884,Hot,Initial Interest
+167,107,Network Referral,2024-01-28 13:04:43.036887,Warm,No Response
+168,84,Direct Outreach,2025-03-14 13:04:43.036889,Cold,No Response
+169,82,Direct Outreach,2023-09-29 13:04:43.036891,Cold,No Response
+170,107,Direct Outreach,2024-08-29 13:04:43.036893,Warm,No Response
+171,185,Intermediary,2023-09-15 13:04:43.036895,Warm,CIM Received
+172,21,Network Referral,2024-01-28 13:04:43.036897,Warm,No Response
+173,196,Auction Process,2023-10-16 13:04:43.036899,Cold,Management Meeting
+174,178,Direct Outreach,2024-12-09 13:04:43.036902,Cold,NDA Signed
+175,161,Network Referral,2025-01-25 13:04:43.036904,Warm,Initial Interest
+176,7,Network Referral,2024-06-13 13:04:43.036906,Cold,NDA Signed
+177,70,Network Referral,2025-01-16 13:04:43.036908,Cold,Initial Interest
+178,127,Intermediary,2023-12-26 13:04:43.036910,Cold,CIM Received
+179,143,Investment Bank,2024-01-04 13:04:43.036912,Hot,No Response
+180,160,Network Referral,2025-06-30 13:04:43.036914,Hot,Initial Interest
+181,148,Investment Bank,2023-10-26 13:04:43.036917,Warm,CIM Received
+182,143,Direct Outreach,2024-08-03 13:04:43.036919,Hot,Management Meeting
+183,176,Network Referral,2024-02-16 13:04:43.036921,Cold,CIM Received
+184,199,Intermediary,2025-06-11 13:04:43.036923,Warm,Initial Interest
+185,149,Proprietary,2025-03-08 13:04:43.036925,Cold,CIM Received
+186,170,Network Referral,2024-06-24 13:04:43.036927,Warm,Initial Interest
+187,154,Intermediary,2024-08-20 13:04:43.036929,Hot,Initial Interest
+188,120,Network Referral,2024-10-28 13:04:43.036932,Warm,No Response
+189,128,Network Referral,2025-05-02 13:04:43.036934,Cold,NDA Signed
+190,142,Investment Bank,2024-10-27 13:04:43.036936,Warm,No Response
+191,57,Direct Outreach,2023-11-28 13:04:43.036938,Cold,Initial Interest
+192,165,Direct Outreach,2025-04-11 13:04:43.036940,Hot,CIM Received
+193,58,Network Referral,2025-04-04 13:04:43.036942,Warm,No Response
+194,21,Investment Bank,2024-02-19 13:04:43.036944,Warm,No Response
+195,82,Investment Bank,2025-04-21 13:04:43.036947,Warm,No Response
+196,69,Direct Outreach,2024-01-02 13:04:43.036949,Warm,Management Meeting
+197,131,Proprietary,2025-02-22 13:04:43.036951,Cold,Initial Interest
+198,87,Direct Outreach,2025-02-19 13:04:43.036953,Warm,Initial Interest
+199,165,Network Referral,2023-08-25 13:04:43.036955,Cold,CIM Received
+200,49,Investment Bank,2024-03-01 13:04:43.036957,Warm,CIM Received
+201,147,Network Referral,2023-12-16 13:04:43.036959,Hot,Initial Interest
+202,115,Direct Outreach,2025-01-12 13:04:43.036962,Hot,NDA Signed
+203,89,Investment Bank,2024-10-02 13:04:43.036964,Warm,CIM Received
+204,85,Network Referral,2024-01-07 13:04:43.036966,Warm,NDA Signed
+205,128,Investment Bank,2023-10-18 13:04:43.036968,Cold,No Response
+206,140,Investment Bank,2024-04-23 13:04:43.036970,Warm,CIM Received
+207,189,Investment Bank,2024-11-26 13:04:43.036972,Cold,Initial Interest
+208,169,Investment Bank,2023-12-26 13:04:43.036974,Warm,No Response
+209,161,Investment Bank,2023-07-25 13:04:43.036976,Cold,Initial Interest
+210,178,Direct Outreach,2024-12-07 13:04:43.036979,Cold,No Response
+211,117,Auction Process,2023-07-01 13:04:43.036981,Warm,No Response
+212,196,Network Referral,2024-08-15 13:04:43.036983,Cold,CIM Received
+213,127,Network Referral,2024-05-18 13:04:43.036985,Warm,No Response
+214,71,Direct Outreach,2023-08-13 13:04:43.036987,Cold,Initial Interest
+215,86,Auction Process,2023-09-04 13:04:43.036989,Cold,Initial Interest
+216,33,Direct Outreach,2024-06-13 13:04:43.036991,Warm,No Response
+217,81,Investment Bank,2024-04-08 13:04:43.036993,Cold,Management Meeting
+218,152,Network Referral,2024-01-18 13:04:43.036996,Cold,No Response
+219,61,Investment Bank,2024-03-25 13:04:43.036998,Warm,Initial Interest
+220,61,Direct Outreach,2025-02-27 13:04:43.037000,Cold,Initial Interest
+221,98,Network Referral,2024-10-20 13:04:43.037002,Hot,No Response
+222,28,Auction Process,2024-11-12 13:04:43.037004,Cold,No Response
+223,186,Network Referral,2025-04-26 13:04:43.037006,Cold,NDA Signed
+224,43,Intermediary,2024-07-19 13:04:43.037008,Warm,Management Meeting
+225,169,Proprietary,2025-06-09 13:04:43.037010,Cold,No Response
+226,167,Investment Bank,2023-11-06 13:04:43.037012,Cold,NDA Signed
+227,86,Direct Outreach,2023-12-11 13:04:43.037014,Cold,NDA Signed
+228,177,Direct Outreach,2024-11-07 13:04:43.037016,Cold,CIM Received
+229,17,Direct Outreach,2023-11-06 13:04:43.037018,Hot,Initial Interest
+230,98,Direct Outreach,2024-11-17 13:04:43.037020,Cold,Initial Interest
+231,198,Auction Process,2025-06-23 13:04:43.037022,Warm,Initial Interest
+232,198,Intermediary,2025-04-19 13:04:43.037024,Hot,NDA Signed
+233,98,Network Referral,2023-07-07 13:04:43.037026,Warm,CIM Received
+234,65,Direct Outreach,2023-09-23 13:04:43.037029,Hot,No Response
+235,74,Auction Process,2025-05-01 13:04:43.037031,Cold,Initial Interest
+236,85,Proprietary,2024-11-08 13:04:43.037033,Hot,Management Meeting
+237,5,Auction Process,2025-04-22 13:04:43.037035,Cold,CIM Received
+238,2,Investment Bank,2025-05-29 13:04:43.037037,Warm,Management Meeting
+239,22,Network Referral,2024-07-27 13:04:43.037039,Warm,CIM Received
+240,112,Investment Bank,2025-04-19 13:04:43.037041,Cold,Initial Interest
+241,57,Direct Outreach,2024-01-21 13:04:43.037043,Warm,NDA Signed
+242,66,Investment Bank,2024-10-30 13:04:43.037045,Warm,NDA Signed
+243,74,Network Referral,2024-09-18 13:04:43.037047,Cold,No Response
+244,98,Intermediary,2023-08-15 13:04:43.037049,Cold,Initial Interest
+245,144,Investment Bank,2024-02-19 13:04:43.037051,Warm,NDA Signed
+246,112,Direct Outreach,2024-11-23 13:04:43.037054,Warm,No Response
+247,179,Network Referral,2023-12-26 13:04:43.037056,Hot,CIM Received
+248,125,Direct Outreach,2025-02-15 13:04:43.037058,Warm,NDA Signed
+249,167,Investment Bank,2023-11-24 13:04:43.037060,Hot,Management Meeting
+250,86,Direct Outreach,2023-11-18 13:04:43.037062,Warm,No Response
+251,76,Intermediary,2024-03-03 13:04:43.037064,Cold,No Response
+252,88,Investment Bank,2024-10-25 13:04:43.037067,Cold,NDA Signed
+253,168,Investment Bank,2024-03-03 13:04:43.037069,Warm,No Response
+254,38,Direct Outreach,2024-05-10 13:04:43.037071,Warm,NDA Signed
+255,188,Auction Process,2024-12-18 13:04:43.037073,Cold,CIM Received
+256,59,Intermediary,2025-03-26 13:04:43.037075,Cold,No Response
+257,138,Intermediary,2025-03-23 13:04:43.037077,Hot,Initial Interest
+258,99,Direct Outreach,2023-08-26 13:04:43.037079,Warm,Initial Interest
+259,192,Network Referral,2024-04-15 13:04:43.037081,Warm,Initial Interest
+260,63,Investment Bank,2024-07-03 13:04:43.037084,Warm,Management Meeting
+261,49,Network Referral,2024-04-23 13:04:43.037086,Cold,CIM Received
+262,192,Auction Process,2024-05-06 13:04:43.037088,Cold,NDA Signed
+263,32,Network Referral,2024-03-09 13:04:43.037090,Cold,NDA Signed
+264,135,Auction Process,2025-05-06 13:04:43.037092,Cold,Initial Interest
+265,21,Intermediary,2023-08-11 13:04:43.037095,Warm,Management Meeting
+266,20,Investment Bank,2023-08-31 13:04:43.037097,Warm,NDA Signed
+267,154,Auction Process,2023-09-08 13:04:43.037099,Hot,NDA Signed
+268,127,Investment Bank,2025-03-22 13:04:43.037101,Hot,CIM Received
+269,68,Network Referral,2025-04-29 13:04:43.037103,Cold,No Response
+270,110,Investment Bank,2024-05-14 13:04:43.037106,Warm,CIM Received
+271,116,Investment Bank,2024-07-18 13:04:43.037108,Warm,No Response
+272,143,Direct Outreach,2025-03-11 13:04:43.037110,Hot,Initial Interest
+273,120,Direct Outreach,2024-10-19 13:04:43.037112,Cold,Initial Interest
+274,79,Network Referral,2024-12-16 13:04:43.037114,Warm,Management Meeting
+275,116,Network Referral,2024-12-18 13:04:43.037116,Warm,CIM Received
+276,92,Investment Bank,2023-12-29 13:04:43.037119,Cold,NDA Signed
+277,14,Investment Bank,2024-03-28 13:04:43.037121,Cold,NDA Signed
+278,155,Network Referral,2025-02-07 13:04:43.037123,Warm,NDA Signed
+279,125,Direct Outreach,2024-04-24 13:04:43.037125,Warm,Management Meeting
+280,168,Intermediary,2024-12-25 13:04:43.037127,Cold,Initial Interest
+281,58,Intermediary,2024-09-18 13:04:43.037129,Warm,Initial Interest
+282,28,Auction Process,2024-03-14 13:04:43.037131,Cold,No Response
+283,26,Intermediary,2024-10-18 13:04:43.037133,Warm,CIM Received
+284,113,Direct Outreach,2025-04-14 13:04:43.037135,Cold,NDA Signed
+285,191,Intermediary,2024-04-03 13:04:43.037137,Hot,Initial Interest
+286,66,Direct Outreach,2023-12-15 13:04:43.037140,Cold,No Response
+287,153,Direct Outreach,2025-03-22 13:04:43.037142,Cold,CIM Received
+288,131,Intermediary,2025-05-10 13:04:43.037144,Cold,No Response
+289,200,Direct Outreach,2023-09-02 13:04:43.037146,Cold,NDA Signed
+290,44,Intermediary,2023-12-25 13:04:43.037148,Warm,Management Meeting
+291,97,Auction Process,2025-06-15 13:04:43.037151,Cold,Initial Interest
+292,42,Auction Process,2025-03-27 13:04:43.037153,Hot,No Response
+293,6,Auction Process,2024-10-31 13:04:43.037162,Cold,NDA Signed
+294,167,Direct Outreach,2025-01-11 13:04:43.037164,Cold,CIM Received
+295,180,Direct Outreach,2024-05-10 13:04:43.037166,Cold,Initial Interest
+296,23,Network Referral,2024-02-19 13:04:43.037169,Cold,Management Meeting
+297,89,Direct Outreach,2024-02-24 13:04:43.037171,Cold,No Response
+298,123,Network Referral,2024-11-24 13:04:43.037173,Warm,Initial Interest
+299,178,Intermediary,2024-05-16 13:04:43.037175,Warm,NDA Signed
+300,171,Intermediary,2025-05-01 13:04:43.037177,Warm,CIM Received
